@@ -7,3 +7,5 @@
 [Day 3](./assignments/day%203/)
 
 [Day 4](./assignments/day%204/Tensorflow_keras_API.ipynb)
+
+[Day 5](./assignments/day%205/mnist_dnn_regularization_lr_schedule.ipynb)
