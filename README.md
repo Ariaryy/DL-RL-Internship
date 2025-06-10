@@ -11,3 +11,5 @@
 [Day 5](./assignments/day%205/mnist_dnn_regularization_lr_schedule.ipynb)
 
 [Day 6](./assignments/day%206/ResNet_DNN_Fashion_MNIST.ipynb)
+
+[Day 7](./assignments/day%207/)
