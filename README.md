@@ -13,3 +13,5 @@
 [Day 6](./assignments/day%206/ResNet_DNN_Fashion_MNIST.ipynb)
 
 [Day 7](./assignments/day%207/)
+
+[Day 8](./assignments/day%208/RNN_LSTM_GRU.ipynb)
