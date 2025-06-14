@@ -17,3 +17,5 @@
 [Day 8](./assignments/day%208/RNN_LSTM_GRU.ipynb)
 
 [Day 9](./assignments/day%209/autoencode_denoise.ipynb)
+
+[Day 10](./assignments/day%2010/)
